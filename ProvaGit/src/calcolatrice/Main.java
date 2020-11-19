@@ -6,6 +6,8 @@ public class Main {
 	
 	public static void main (String [] args) {
 		
+		System.out.println("Sono la nuova versione");
+		
 		  Scanner scanner = new Scanner(System.in);
 		  Calcolatrice calcola = new Calcolatrice();
 		  System.out.print("Inserisci un numero: ");
